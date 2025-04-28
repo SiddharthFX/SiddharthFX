@@ -4,7 +4,7 @@
 
 ## 👀 About Me  
 - Passionate about **Ethereum, Smart Contracts, and DeFi**  
-- **NASDAQ Analyst Trader** 
+- **NASDAQ Analyst** 
 - Exploring the intersection of **Blockchain, AI, and Finance**  
 
 ## 🌱 Currently Learning  
