@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Siddharth
 
-🚀 **Blockchain Developer | NQ Trader | AI & Web3 Enthusiast**  
+🚀 **Blockchain Developer | NQ Analyst | AI & Web3 Enthusiast**  
 
 ## 👀 About Me  
 - Passionate about **Ethereum, Smart Contracts, and DeFi**  
-- **NASDAQ Futures Trader** 
+- **NASDAQ Analyst Trader** 
 - Exploring the intersection of **Blockchain, AI, and Finance**  
 
 ## 🌱 Currently Learning  
