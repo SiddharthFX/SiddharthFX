@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Siddharth
 
-🚀 **Blockchain Developer | NQ Analyst | AI & Web3 Enthusiast**  
+🚀 **Blockchain Developer | NQ Analyst | AI & Web3**  
 
 ## 👀 About Me  
 - Passionate about **Ethereum, Smart Contracts, and DeFi**  
