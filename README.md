@@ -22,6 +22,6 @@ I'm open to collaborating on:
 - AI & Smart Contracts Integration    
 
 ## 📫 Reach Me  
-- Twitter:  https://x.com/Siddh_Fx 
+-Personal Website - www.siddhu.fun
 
 ⚡ **Fun Fact:** The **market is a game of probabilities**, and so is **Web3 innovation**—I thrive in both!  
