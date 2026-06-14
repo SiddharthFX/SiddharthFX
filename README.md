@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m Siddharth N.R, Final year B.Tech student specializing in Artificial Intelligence and Data Science, deeply passionate about cutting-edge technologies that are shaping the future.<br><br>Currently, I’m advancing my expertise in Solidity and blockchain development, with a strong focus on building secure, scalable, and real-world Web3 applications. My work explores the intersection of AI and decentralized systems, aiming to solve critical problems in finance, healthcare, and identity through smart contracts and on-chain innovation.<br><br>I’m committed to building meaningful products, contributing to open-source ecosystems, and staying hands-on with the latest in DeFi, tokenized assets, and blockchain infrastructure. Whether it’s through hackathons, research, or collaborative projects, I’m constantly looking to push boundaries and grow as a developer and innovator.<br><br>Let’s connect if you’re into Web3, AI, startups, or just building the future, onchain.
+👋 Hi, I'm Siddharth N.R, a final-year B.Tech student specializing in Artificial Intelligence and Data Science, driven by a passion for building intelligent systems that solve real-world problems.
+
+My primary focus is on Artificial Intelligence, Machine Learning, and Large Language Models (LLMs), where I actively explore the latest advancements in generative AI, agentic workflows, retrieval-augmented generation (RAG), and AI-powered applications. I enjoy transforming complex ideas into practical products that enhance decision-making, automation, and user experiences.
+
+I am particularly interested in the intersection of AI, healthcare, finance, and emerging technologies, building solutions that leverage machine learning, deep learning, and modern AI frameworks to create meaningful impact. From developing AI assistants and intelligent analytics platforms to experimenting with multimodal AI systems, I am constantly expanding my technical expertise and staying at the forefront of innovation.
+
+Beyond development, I actively participate in hackathons, contribute to collaborative projects, and continuously learn about advancements in AI infrastructure, model optimization, and scalable machine learning systems. My goal is to build products that are not only technically impressive but also valuable, accessible, and impactful.
 
 
 ## 🌐 Socials:
