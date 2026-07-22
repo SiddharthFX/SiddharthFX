@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://huggingface.co/Siddh07ETH"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Siddh07ETH-yellow?style=for-the-badge" alt="HuggingFace"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/siddharth-n-r-842529356"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:siddhufx7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=Siddh07ETH&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
 </p>
 
