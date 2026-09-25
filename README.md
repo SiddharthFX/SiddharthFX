@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="banner.svg" width="100%" alt="Siddharth N.R." />
-</p>
-
-AI/MLOps engineer building small, efficient language models that run on consumer hardware. Founder of **Pluto AI Labs** — open-source edge models with 7,000+ cumulative downloads on Hugging Face — and an active contributor to 8+ open-source AI organizations, including Apple's MLX.
+AI/MLOps engineer building small, efficient language models that run on consumer hardware. Founder of **Pluto AI Labs** — open-source edge models with 8,000+ cumulative downloads on Hugging Face — and an active contributor to 8+ open-source AI organizations, including Apple's MLX.
 
 Currently doing AI/ML research at **Crebiliti**, raising evidence-verification accuracy for LLM systems from 78% to 98% on controlled benchmarks. Two peer-reviewed papers so far — one on Zenodo, one in IRJMETS.
 
