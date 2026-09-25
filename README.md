@@ -15,7 +15,7 @@ Currently doing AI/ML research at **Crebiliti**, raising evidence-verification a
 
 | | |
 |---|---|
-| Hugging Face downloads | 7,000+ cumulative |
+| Hugging Face downloads | 8,000+ cumulative |
 | Open-source orgs | 8+, including Apple's MLX |
 | Publications | 2 — Zenodo, IRJMETS |
 | Pluto-Genesis rank | #4 globally, sub-1B models |
