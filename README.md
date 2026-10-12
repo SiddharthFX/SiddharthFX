@@ -27,7 +27,7 @@ Founder of **[Pluto AI Labs](https://huggingface.co/Pluto-AI-Labs)** &nbsp;·&nb
 
 <table>
 <tr>
-<td align="center" width="20%"><img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Space+Grotesk&weight=700&size=34&duration=900&pause=100000&color=7B6CFF&width=170&height=52&repeat=false&lines=8.5K%2B" height="52" alt="8.5K+" /><br /><sub>Hugging Face<br />downloads</sub></td>
+<td align="center" width="20%"><img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Space+Grotesk&weight=700&size=34&duration=900&pause=100000&color=7B6CFF&width=170&height=52&repeat=false&lines=8.5K%2B" height="52" alt="10K+" /><br /><sub>Hugging Face<br />downloads</sub></td>
 <td align="center" width="20%"><img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Space+Grotesk&weight=700&size=34&duration=900&pause=100000&color=7B6CFF&width=170&height=52&repeat=false&lines=%234" height="52" alt="#4" /><br /><sub>Global rank<br />sub-1B models</sub></td>
 <td align="center" width="20%"><img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Space+Grotesk&weight=700&size=34&duration=900&pause=100000&color=7B6CFF&width=170&height=52&repeat=false&lines=78%E2%86%9298%25" height="52" alt="78→98%" /><br /><sub>Evidence-verification<br />accuracy</sub></td>
 <td align="center" width="20%"><img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Space+Grotesk&weight=700&size=34&duration=900&pause=100000&color=7B6CFF&width=170&height=52&repeat=false&lines=17" height="52" alt="17" /><br /><sub>Open models<br />shipped</sub></td>
