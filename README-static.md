@@ -1,4 +1,4 @@
-<!-- Personal profile for SiddharthFX. Theme-aware artwork is stored in assets/. -->
+<!-- Personal profile for SiddharthFX. Upload README.md and assets/ together. -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/orbit/hero-dark-still.png">
@@ -8,54 +8,45 @@
 
 
 <p align="center">
-  <b>AI / MLOps engineer & developer.</b><br>
-  I build compact models, developer tools, and full-stack applications.<br>
-  <sub>Tamil Nadu, India &nbsp; · &nbsp; Researching LLM verification at <b>Crebiliti</b>.</sub>
+  <b>Models, tools, and the software around them.</b><br>
+  I’m an AI/MLOps engineer from Tamil Nadu, India.<br>
+  I train compact models, build developer tools, and ship full-stack applications.
 </p>
+
+<p align="center"><sub>Currently researching LLM verification at <b>Crebiliti</b>.</sub></p>
 
 
 <p align="center">
-<a href="https://siddharth16.space/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/portfolio-light.svg"><img src="assets/icons/portfolio-light.svg" width="42" alt="Portfolio" title="Portfolio"></picture></a> &nbsp;
-<a href="https://github.com/SiddharthFX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/github-light.svg"><img src="assets/icons/github-light.svg" width="42" alt="GitHub" title="GitHub"></picture></a> &nbsp;
-<a href="https://www.linkedin.com/in/siddharth-n-r-842529356"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/linkedin-light.svg"><img src="assets/icons/linkedin-light.svg" width="42" alt="LinkedIn" title="LinkedIn"></picture></a> &nbsp;
-<a href="mailto:siddhufx7@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/gmail-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/gmail-light.svg"><img src="assets/icons/gmail-light.svg" width="42" alt="Email" title="Email"></picture></a>
+<a href="https://siddharth16.space/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/icons/portfolio-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/icons/portfolio-light.svg">
+  <img src="assets/icons/portfolio-light.svg" width="42" alt="Portfolio" title="Portfolio">
+</picture></a> &nbsp;
+<a href="https://github.com/SiddharthFX"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/icons/github-light.svg">
+  <img src="assets/icons/github-light.svg" width="42" alt="GitHub" title="GitHub">
+</picture></a> &nbsp;
+<a href="https://www.linkedin.com/in/siddharth-n-r-842529356"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/icons/linkedin-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/icons/linkedin-light.svg">
+  <img src="assets/icons/linkedin-light.svg" width="42" alt="LinkedIn" title="LinkedIn">
+</picture></a> &nbsp;
+<a href="mailto:siddhufx7@gmail.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/icons/gmail-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/icons/gmail-light.svg">
+  <img src="assets/icons/gmail-light.svg" width="42" alt="Email" title="Email">
+</picture></a>
 </p>
 
 <p align="center"><sub><a href="https://siddharth16.space/">Portfolio</a> &nbsp; / &nbsp; <a href="https://github.com/SiddharthFX">GitHub</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/siddharth-n-r-842529356">LinkedIn</a> &nbsp; / &nbsp; <a href="mailto:siddhufx7@gmail.com">Email</a></sub></p>
 
 <br>
 
-<h3 align="center">Selected work</h3>
+<h3 align="center">01 &nbsp; / &nbsp; Tech stack</h3>
 
-<a href="https://github.com/Pluto-AI-Labs/llm-diff">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/orbit/projects/llm-diff-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/orbit/projects/llm-diff-light.svg">
-  <img src="assets/orbit/projects/llm-diff-light.svg" width="100%" alt="llm-diff — compare LLM behavior across providers. Python, CLI, and CI.">
-</picture>
-</a>
 
-<a href="https://huggingface.co/Pluto-AI-Labs/Athena-1.0-4B">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/orbit/projects/athena-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/orbit/projects/athena-light.svg">
-  <img src="assets/orbit/projects/athena-light.svg" width="100%" alt="Athena 1.0 — a vision-language model for documents, charts, and visual reasoning. Transformers, LoRA, and BF16.">
-</picture>
-</a>
-
-<a href="https://github.com/SiddharthFX/Auditlink-public">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/orbit/projects/auditlink-ai-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/orbit/projects/auditlink-ai-light.svg">
-  <img src="assets/orbit/projects/auditlink-ai-light.svg" width="100%" alt="AuditLink AI — AI-assisted Solidity smart contract review. Solidity, Chainlink, and Gemini.">
-</picture>
-</a>
-
-<br>
-
-<h3 align="center">Tech stack</h3>
-
-<p align="center"><sub><b>MODELS &amp; INFERENCE</b></sub></p>
+<p align="center"><sub><b>MODELS & INFERENCE</b></sub></p>
 
 <p align="center">
 <picture>
@@ -86,7 +77,7 @@
 <br><sub>Python &nbsp;·&nbsp; PyTorch &nbsp;·&nbsp; Hugging Face &nbsp;·&nbsp; scikit-learn &nbsp;·&nbsp; Ollama</sub>
 </p>
 
-<p align="center"><sub><b>WEB &amp; APIS</b></sub></p>
+<p align="center"><sub><b>WEB & APIS</b></sub></p>
 
 <p align="center">
 <picture>
@@ -112,7 +103,7 @@
 <br><sub>TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; FastAPI</sub>
 </p>
 
-<p align="center"><sub><b>CLOUD &amp; DELIVERY</b></sub></p>
+<p align="center"><sub><b>CLOUD & DELIVERY</b></sub></p>
 
 <p align="center">
 <picture>
@@ -138,7 +129,7 @@
 <br><sub>Docker &nbsp;·&nbsp; Google Cloud &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; Git</sub>
 </p>
 
-<p align="center"><sub><b>DATA &amp; WEB3</b></sub></p>
+<p align="center"><sub><b>DATA & WEB3</b></sub></p>
 
 <p align="center">
 <picture>
@@ -163,8 +154,54 @@
 
 <br>
 
+<h3 align="center">02 &nbsp; / &nbsp; Selected builds</h3>
+
+
+<a href="https://github.com/Pluto-AI-Labs/llm-diff">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/llm-diff-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/projects/llm-diff-light.svg">
+  <img src="assets/projects/llm-diff-light.svg" width="100%" alt="llm-diff — compare LLM behavior across providers with a Python CLI and CI regression checks.">
+</picture>
+</a>
+
+
+<a href="https://huggingface.co/Pluto-AI-Labs/Apollo-VL-Edge-3B">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/apollo-vl-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/projects/apollo-vl-light.svg">
+  <img src="assets/projects/apollo-vl-light.svg" width="100%" alt="Apollo VL — a 3B vision-language model for charts, documents and diagrams. PyTorch, QLoRA, GGUF and MLX.">
+</picture>
+</a>
+
+
+<a href="https://github.com/SiddharthFX/Auditlink-public">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/auditlink-ai-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/projects/auditlink-ai-light.svg">
+  <img src="assets/projects/auditlink-ai-light.svg" width="100%" alt="AuditLink AI — AI-assisted Solidity review using Chainlink workflows and on-chain audit records.">
+</picture>
+</a>
+
+
+<p align="center"><sub><a href="https://github.com/SiddharthFX?tab=repositories">Explore my repositories ↗</a></sub></p>
+
+<br>
+
 <details>
-<summary><b>Research & background</b></summary>
+<summary><b>More projects & experiments</b></summary>
+
+- **[Atlas Coder](https://huggingface.co/Pluto-AI-Labs/Atlas-Coder-2-0.5B)** — a compact coding model for local inference.
+- **[Crypfolio](https://github.com/SiddharthFX/crypfolio)** — a browser-only crypto tracker with live market data and local storage.
+- **[AnvilX](https://github.com/SiddharthFX/anvilx-dashboard)** — a macOS and web platform with authentication and on-chain functionality.
+- **[MedASK AI](https://github.com/SiddharthFX/medask-AI)** — prescription OCR with Google Cloud Vision and Gemini, deployed on Cloud Run.
+
+Also building **Pluto Notebook**, an offline AI workspace for developers.
+
+</details>
+
+<details>
+<summary><b>Research & a little background</b></summary>
 
 At **Crebiliti**, I work on evidence verification for LLMs, including NLI, embedding-based relation scoring, LLM-as-judge evaluation, and synthetic-data validation.
 
@@ -172,8 +209,13 @@ I founded [Pluto AI Labs](https://huggingface.co/Pluto-AI-Labs), where I release
 
 **B.Tech, Artificial Intelligence & Data Science** — Ramco Institute of Technology.
 
+- **[Pluto-Genesis paper](https://doi.org/10.5281/zenodo.21368749)** — QLoRA fine-tuning on ephemeral compute with cross-session checkpoint recovery. Zenodo preprint.
+- **[Athena Brain](https://huggingface.co/datasets/Pluto-AI-Labs/Athena-1.0-Brain)** — a vision-language dataset for document and chart understanding.
+
 </details>
+
+<br>
 
 ---
 
-<p align="center"><sub><a href="README.md">View animated version</a></sub></p>
+<p align="center"><sub>Always building. Always learning.<br><a href="https://siddharth16.space/">siddharth16.space</a> &nbsp; · &nbsp; <a href="mailto:siddhufx7@gmail.com">Let’s talk ↗</a> &nbsp; · &nbsp; <a href="README.md">Animated version</a></sub></p>
